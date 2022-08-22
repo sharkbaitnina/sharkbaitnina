@@ -3,19 +3,19 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Nina Valenzuela</h1>
-<h3 align="center">A passionate Full- Stack developer from USA</h3>
+<h3 align="center">A passionate Full- Stack developer from Calilfornia, USA</h3>
 
 <p align="center"> <a href="https://twitter.com/lovelessfangirl" target="blank"><img src="https://img.shields.io/twitter/follow/lovelessfangirl?logo=twitter&style=for-the-badge" alt="lovelessfangirl" /></a> </p>
 
-- 🌱 I’m currently learning **API integration, and building mobile applications**
+- 🌱 I’m currently learning **Building mobile applications**
 
 - 👨‍💻 All of my projects are available at [pencode.com/sharkbaitnina](pencode.com/sharkbaitnina)
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **Sharks**
 
 - 📫 How to reach me **valenzuelanina101@gmail.com**
 
-- ⚡ Fun fact **I like sharks**
+- ⚡ Fun fact ** I have 3 tattoos and two of them are sharks! **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
