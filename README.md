@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Nina Valenzuela</h1>
-<h3 align="center">A Passionate Full- Stack developer With Background In Design from Calilfornia, USA</h3>
+<h3 align="center">A Passionate Full- Stack developer With Background In Design From Calilfornia, USA</h3>
 
 <p align="center"> <a href="https://twitter.com/lovelessfangirl" target="blank"><img src="https://img.shields.io/twitter/follow/lovelessfangirl?logo=twitter&style=for-the-badge" alt="lovelessfangirl" /></a> </p>
 
